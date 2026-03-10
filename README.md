@@ -1,3 +1,12 @@
+## Screenshot Hasil Tugas
+*(Sesuai poin 5.e instruksi tugas)*
+
+![Bukti Diskon Berhasil](hasiltugas-sesi3.png)
+> *Keterangan: Screenshot menunjukkan total belanja di atas Rp 5.000.000 dengan status promo aktif (berwarna hijau) dan harga yang sudah terpotong otomatis.*
+
+---
+
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
